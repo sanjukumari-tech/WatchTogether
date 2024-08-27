@@ -4,7 +4,7 @@
   "description": "this is watch video together application",
   "main": "server.js",
   "scripts": {
-    "test": "node server.js"
+    "start": "node server.js"
   },
   "author": "sanju kumari",
   "license": "ISC",
